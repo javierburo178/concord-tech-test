@@ -11,7 +11,6 @@ export const AppLayoutMain = styled.div`
 `;
 
 export const CounterItemCount = styled.span`
-  font-family: var(--main-font);
   font-style: normal;
   font-weight: 400;
   font-size: 16px;

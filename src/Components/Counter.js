@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import useActions from "../Hooks/useActions";
 import { EXAMPLE_ITEM } from "../Data/Util";
 import {
@@ -7,25 +7,12 @@ import {
   Button,
   Footer,
 } from "./Counter.styles";
+import useInterval from "../Hooks/useInterval";
 
 const Counter = () => {
-  const intervalSeconds = 30;
   const { onClickIncrementItem, onClickRemoveItem, count, setCart, cart } =
     useActions(EXAMPLE_ITEM);
-
-  const [timeOnPage, setTimeOnPage] = useState(0);
-
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setTimeOnPage((timeOnPage) => timeOnPage + intervalSeconds);
-      updateItems(cart);
-    }, intervalSeconds * 1000);
-    return () => clearInterval(interval);
-  }, []);
-
-  const updateItems = (cartItems) => {
-    setCart(cartItems);
-  };
+  const { timeOnPage } = useInterval(setCart, cart);
 
   return (
     <>
