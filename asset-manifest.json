@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%7Bconcord-tech-test%7D/static/css/main.626adc0c.chunk.css",
+    "main.js": "/%7Bconcord-tech-test%7D/static/js/main.dd3e0f39.chunk.js",
+    "main.js.map": "/%7Bconcord-tech-test%7D/static/js/main.dd3e0f39.chunk.js.map",
+    "runtime-main.js": "/%7Bconcord-tech-test%7D/static/js/runtime-main.21b92fcb.js",
+    "runtime-main.js.map": "/%7Bconcord-tech-test%7D/static/js/runtime-main.21b92fcb.js.map",
+    "static/js/2.ab9b3517.chunk.js": "/%7Bconcord-tech-test%7D/static/js/2.ab9b3517.chunk.js",
+    "static/js/2.ab9b3517.chunk.js.map": "/%7Bconcord-tech-test%7D/static/js/2.ab9b3517.chunk.js.map",
+    "static/js/3.4d4454c5.chunk.js": "/%7Bconcord-tech-test%7D/static/js/3.4d4454c5.chunk.js",
+    "static/js/3.4d4454c5.chunk.js.map": "/%7Bconcord-tech-test%7D/static/js/3.4d4454c5.chunk.js.map",
+    "index.html": "/%7Bconcord-tech-test%7D/index.html",
+    "static/css/main.626adc0c.chunk.css.map": "/%7Bconcord-tech-test%7D/static/css/main.626adc0c.chunk.css.map",
+    "static/js/2.ab9b3517.chunk.js.LICENSE.txt": "/%7Bconcord-tech-test%7D/static/js/2.ab9b3517.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21b92fcb.js",
+    "static/js/2.ab9b3517.chunk.js",
+    "static/css/main.626adc0c.chunk.css",
+    "static/js/main.dd3e0f39.chunk.js"
+  ]
+}
