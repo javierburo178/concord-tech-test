@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/concord-tech-test/static/css/main.626adc0c.chunk.css",
-    "main.js": "/concord-tech-test/static/js/main.6193eaf1.chunk.js",
-    "main.js.map": "/concord-tech-test/static/js/main.6193eaf1.chunk.js.map",
+    "main.js": "/concord-tech-test/static/js/main.b09fd2c0.chunk.js",
+    "main.js.map": "/concord-tech-test/static/js/main.b09fd2c0.chunk.js.map",
     "runtime-main.js": "/concord-tech-test/static/js/runtime-main.c51c0030.js",
     "runtime-main.js.map": "/concord-tech-test/static/js/runtime-main.c51c0030.js.map",
     "static/js/2.49b697b4.chunk.js": "/concord-tech-test/static/js/2.49b697b4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c51c0030.js",
     "static/js/2.49b697b4.chunk.js",
     "static/css/main.626adc0c.chunk.css",
-    "static/js/main.6193eaf1.chunk.js"
+    "static/js/main.b09fd2c0.chunk.js"
   ]
 }
