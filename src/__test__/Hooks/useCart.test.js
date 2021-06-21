@@ -1,5 +1,6 @@
-import useCart from "../Hooks/useCart";
-import { act, renderHook } from "@testing-library/react-hooks";
+import useCart from "../../Hooks/useCart";
+
+import { renderHook } from "@testing-library/react-hooks";
 
 test("Testing useCart Hook", () => {
   const { result } = renderHook(() => useCart());

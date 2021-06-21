@@ -16,6 +16,7 @@ const useInterval = (setCart, cart) => {
   };
   return {
     timeOnPage,
+    updateItems,
   };
 };
 
