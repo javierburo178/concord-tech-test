@@ -1,4 +1,3 @@
-import React from "react";
 import useCart from "./useCart";
 import useCounter from "./useCounter";
 import swal from "sweetalert";
